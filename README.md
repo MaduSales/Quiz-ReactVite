@@ -16,7 +16,7 @@ Imagem do projeto: https://github.com/MaduSales/Quiz-ReactVite/assets/166547195/
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um quiz de perguntas e respostas de conhecimentos gerais, onde o usuário possa escolher uma resposta entre várias opções e receber feedback sobre sua escolha.. 
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um quiz de perguntas e respostas de conhecimentos gerais, onde o usuário possa escolher uma resposta entre várias opções e receber feedback sobre sua escolha.
 <br>
 <br>
 <br>
